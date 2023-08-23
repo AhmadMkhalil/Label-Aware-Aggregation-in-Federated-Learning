@@ -1,0 +1,37 @@
+avg_train_accuracy: 0.31
+avg_train_loss: 0.028
+avg_type: avg
+dataset: emnist-balanced
+epochs: 2
+frac: 0.7
+iid: 0
+kernel_num: 9
+kernel_sizes: 3,4,5
+local_bs: 256
+local_ep: 10
+lr: 0.01
+max_pool: 'True'
+model: cnn
+momentum: 0.2
+norm: batch_norm
+num_channels: 1
+num_classes: 47
+num_filters: 32
+num_users: 10
+number_of_classes_of_half_of_user: 6
+optimizer: sgd
+seed: 1
+test_accuracy_list:
+- 0.10138297872340425
+- 0.18101063829787234
+test_loss_list:
+- 569.4456403255463
+- 532.8395864963531
+train_accuracy:
+- 0.0
+- 0.31
+train_loss:
+- 3.418
+- 2.793
+unequal: 0
+verbose: 1
