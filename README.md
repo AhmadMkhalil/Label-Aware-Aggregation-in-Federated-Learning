@@ -22,27 +22,6 @@ FedLA is particularly effective in scenarios with heterogeneous data distributio
 
 ---
 
-## Installation
-
-To set up and run the code, follow the steps below:
-
-### 1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-```
-
-### 2. Install required dependencies:
-
-Make sure you have Python 3.8+ installed. Then, install the dependencies listed in `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Running the Experiments
 
 You can run the experiments as described in the paper using the following command format:
