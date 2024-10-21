@@ -1,7 +1,3 @@
-Here's an enhanced version of your README file with improved structure, clarity, and professionalism:
-
----
-
 # Source Code for *Label-Aware Aggregation for Improved Federated Learning*
 
 This repository contains the source code and supplementary files for the research paper **"Label-Aware Aggregation for Improved Federated Learning"**, authored by **Ahmad Khalil et al.**, published in the **2023 Eighth International Conference on Fog and Mobile Edge Computing (FMEC)**.
@@ -109,5 +105,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 We would like to thank the contributors and the community for their feedback and support in developing this method. Special thanks to [TU Darmstadt](https://www.tu-darmstadt.de) and [the KOM research group](https://www.kom.tu-darmstadt.de).
 
 ---
-
-This version refines the existing README file by improving clarity, adding missing details, and enhancing the flow of information. Let me know if you need further adjustments!
