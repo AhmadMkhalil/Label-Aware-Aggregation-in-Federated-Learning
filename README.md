@@ -44,7 +44,7 @@ For a full list of parameters and options, refer to `options.py`.
 
 If you encounter any issues while running the code, please don't hesitate to reach out to the authors for assistance:
 
-- **Ahmad Khalil**: ahmad.khalil@kom.tu-darmstadt.de or dr.ahmad.khalil@gmail.com
+- **Ahmad Khalil**: ahmad.khalil@kom.tu-darmstadt.de or dr.ing.ahmad.khalil@gmail.com
 
 ---
 
